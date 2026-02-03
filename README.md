@@ -14,10 +14,14 @@ Question:
 How do PM2.5, PM10, NO₂ and O₃ vary across seasons and years, and how are high-pollution events linked to wind and temperature conditions across the two sites?
 
 Key messages:
+
+
 - Primary pollutants (NO₂, PM2.5, PM10) peak in winter, while O₃ peaks in summer.
 - PM2.5 and NO₂ co-vary strongly under low wind speeds and specific wind sectors (directional transport + reduced dispersion).
 - Temperature patterns separate photochemical ozone behaviour from primary pollutant accumulation.
 - Polar wind-direction × wind-speed summaries reveal stable directional hotspots for elevated PM2.5.
+
+  
 
 Key Features 🔍
 Data Preparation
